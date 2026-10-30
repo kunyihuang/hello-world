@@ -1,2 +1,2 @@
 # hello-world
-Starting a new account.
+First contribution of a new account.
